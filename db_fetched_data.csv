@@ -1,0 +1,11 @@
+consumer_number,family_members,working_members,ages,units_consumed,cost_per_unit,usage_hours,total_usage_hours,appliance_name,location
+111,1,1,[25],320.0,6.0,20.0,20.0,refrigerator (single door),Kochi
+111,1,1,[25],320.0,6.0,1.0,1.0,electric iron,Kochi
+1000,2,1,"[35, 32]",300.0,6.0,15.0,15.0,refrigerator (single door),Kochi
+5151,2,1,"[25, 26]",0.0,0.0,2.0,2.0,washing machine (front load),Kochi
+444,1,1,[35],300.0,5.0,2.0,2.0,toaster,Kochi
+567,2,2,"[26, 27]",0.0,0.0,0.0,,,Kozhikode
+444,1,1,[35],300.0,5.0,10.0,10.0,ceiling fan,Kochi
+5151,2,1,"[25, 26]",0.0,0.0,15.0,15.0,refrigerator (single door),Kochi
+1000,2,1,"[35, 32]",300.0,6.0,2.0,2.0,washing machine (front load),Kochi
+999,2,1,"[25, 25]",300.0,5.0,0.0,,,Malappuram

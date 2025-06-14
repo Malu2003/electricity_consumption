@@ -1,0 +1,18 @@
+appliance_name,Power_Rating_W,Units_Consumed_Per_Hour_kWh
+Air Conditioner (1.5 Ton),1500,1.5
+Refrigerator (Single Door),150,0.15
+Refrigerator (Double Door),300,0.3
+Ceiling Fan,75,0.075
+LED Light (10W),10,0.01
+Incandescent Bulb (60W),60,0.06
+Washing Machine (Front Load),650,0.65
+Microwave Oven,1200,1.2
+Induction Cooktop,1500,1.5
+Water Heater (Geyser),2000,2
+Laptop Charger,75,0.075
+Mobile Charger,10,0.01
+Television (LED),100,0.1
+Electric Iron,1000,1
+Toaster,1200,1.2
+Vacuum Cleaner,1000,1
+Hair Dryer,1500,1.5

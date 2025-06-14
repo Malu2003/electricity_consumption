@@ -1,0 +1,43 @@
+venv/
+env/
+ENV/
+venv*/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Machine Learning Models
+*.pkl
+*.h5
+*.model
+*.joblib
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large Files
+*.dll
+*.exe
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+logs/
