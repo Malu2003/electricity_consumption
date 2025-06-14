@@ -135,109 +135,53 @@ Special thanks to all mentors, teammates, and supporters.
 
 make this a more creative and professional readme.md file
 
-GitHub Copilot: # ⚡ WattsNext
-### *Predict. Optimize. Sustain.*
 
-<div align="center">
-
-![WattsNext Logo](https://img.shields.io/badge/WattsNext-AI%20Energy%20Assistant-brightgreen?style=for-the-badge&logo=lightning)
-
-**AI-Powered Energy Consumption Prediction & Carbon Footprint Analyzer**
+# ⚡ WattsNext – AI‑Powered Energy Consumption Prediction & Carbon Footprint Analyzer
 
 *Empowering residential users to take control of their energy future*
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)  
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-
-</div>
 
 ---
 
 ## 🎯 Vision
 
-In a world where energy costs are rising and climate change demands immediate action, **WattsNext** bridges the gap between consumption awareness and actionable sustainability. Our AI-driven platform doesn't just predict—it transforms how you interact with energy.
+In a world of rising energy costs and the pressing need for sustainability, **WattsNext** turns awareness into action. Predict, optimize, and reduce your energy and carbon footprint.
 
-> *"Every kilowatt saved today powers a sustainable tomorrow"*
+> *"Every kilowatt saved today powers a sustainable tomorrow."*
 
 ---
 
 ## ✨ Core Features
 
-<table>
-<tr>
-<td width="50%">
+| 🔮 Smart Prediction | 💰 Cost Optimization |
+|---------------------|-----------------------|
+| XGBoost, regression | Real-time tariff input |
+| Multi-factor inputs | ROI analysis & forecasting |
 
-### 🔮 **Smart Energy Prediction**
-- **Advanced ML Models**: XGBoost & Regression algorithms
-- **Multi-factor Analysis**: User profiles, appliance usage, historical patterns
-- **Accuracy-driven**: Learns from your unique consumption behavior
-- **Future-ready**: Adapts to changing usage patterns
+| 🌱 Carbon Tracker | 🎯 AI Recommendations |
+|------------------|------------------------|
+| CO₂ estimation with Indian emission factors | Optimal appliance usage tips |
 
-</td>
-<td width="50%">
-
-### 💰 **Intelligent Cost Optimization**
-- **Dynamic Bill Calculation**: Real-time tariff integration
-- **Reduction Modeling**: Identifies high-impact savings opportunities  
-- **ROI Analysis**: Shows potential savings vs. lifestyle impact
-- **Budget Planning**: Monthly cost forecasting
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌱 **Carbon Impact Visualization**
-- **Real-time CO₂ Tracking**: Based on Indian emission factors
-- **Environmental Goals**: Set and achieve carbon reduction targets
-- **Impact Comparison**: See your footprint vs. regional averages
-- **Sustainability Metrics**: Track your green progress over time
-
-</td>
-<td width="50%">
-
-### 🎯 **Personalized AI Recommendations**
-- **Smart Appliance Analysis**: Identifies energy-hungry devices
-- **Usage Pattern Insights**: Optimal timing suggestions
-- **Comfort-first Approach**: Maintains lifestyle while saving energy
-- **Adaptive Learning**: Gets smarter with every interaction
-
-</td>
-</tr>
-</table>
-
-### 🔔 **Intelligent Notifications**
-- **Peak Hour Alerts**: Shift loads to save money
-- **Maintenance Reminders**: Keep appliances efficient
-- **Goal Celebrations**: Acknowledge your green wins
-- **Contextual Tips**: Right advice at the right time
-
-### 📊 **Dynamic Dashboard**
-- **Monthly Energy Insights**: Beautiful visualizations of your consumption
-- **Trend Analysis**: Spot patterns and seasonal changes  
-- **Goal Tracking**: Monitor progress toward savings targets
-- **Family Insights**: Understand household energy dynamics
+Plus **Intelligent Notifications** for peak-hour alerts and **Dynamic Dashboard** with monthly insights.
 
 ---
 
 ## 🏗️ Architecture & Tech Stack
 
-<div align="center">
-
 ```mermaid
 graph TB
-    A[Flutter Frontend] --> B[FastAPI Backend]
-    B --> C[PostgreSQL Database]
-    B --> D[ML Engine]
-    D --> E[XGBoost Model]
-    D --> F[Regression Model]
-    B --> G[JWT Authentication]
-    B --> H[Real-time Notifications]
-```
+  A[Flutter Frontend] --> B[FastAPI Backend]
+  B --> C[PostgreSQL Database]
+  B --> D[ML Engine]
+  D --> E[XGBoost Model]
+  D --> F[Regression Model]
+  B --> G[JWT Authentication]
+  B --> H[Real-Time Notifications]
 
-</div>
 
 ### 🛠️ **Technology Matrix**
 
@@ -489,9 +433,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Muthoot Institute of Technology and Science**
 
 ### **👥 Special Thanks**
-- **Dr. [Mentor Name]** - Project Guidance & Vision
-- **[Team Member Names]** - Development & Innovation
-- **MITS Faculty** - Technical Support & Mentorship
+- **Ms. Thasni KN** - Project Guidance & Vision
 - **Open Source Community** - Tools & Frameworks
 
 ### **🌟 Inspiration**
@@ -507,10 +449,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 *Every prediction made, every kilowatt saved, every carbon gram reduced brings us closer to a sustainable future.*
 
-**[📱 Download App](#) | 🌐 Visit Website | 📧 Contact Us**
 
----
-
-**Made with ❤️ and ⚡ for a sustainable tomorrow**
 
 </div>
