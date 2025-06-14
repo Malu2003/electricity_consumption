@@ -111,12 +111,6 @@ In a world where energy costs are rising and climate change demands immediate ac
 <img src="screenshots/recommendations.png" alt="AI Recommendations" width="250"/>
 <br><b>🤖 AI Recommendations</b>
 <br><i>Personalized energy tips</i>
-</td>
-<td align="center" width="33%">
-<img src="screenshots/log.png" alt="Activity Log" width="250"/>
-<br><b>📈 Activity Log</b>
-<br><i>Track your progress</i>
-</td>
 </tr>
 </table>
 
@@ -136,7 +130,6 @@ graph TB
     D --> E[XGBoost Model]
     D --> F[Regression Model]
     B --> G[JWT Authentication]
-    B --> H[Real-time Notifications]
 ```
 
 </div>
@@ -152,7 +145,6 @@ graph TB
 | 🔐 **Authentication** | JWT | Secure user sessions |
 | 📋 **ORM** | SQLAlchemy | Database abstraction |
 | 🔄 **Migrations** | Alembic | Schema version control |
-| ☁️ **Deployment** | *Coming Soon* | Scalable cloud hosting |
 
 ---
 
@@ -218,12 +210,6 @@ flowchart LR
     E --> F[🔔 Actionable Notifications]
     F --> A
 
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#f1f8e9
 ```
 
 </div>
@@ -373,22 +359,6 @@ ls models/
 - [ ] ☁️ **Cloud Deployment**: AWS/Azure hosting
 ---
 
-## 🤝 Contributing
-
-We believe in the power of community-driven innovation! Here's how you can contribute to WattsNext:
-
-### **🐛 Bug Reports**
-Found an issue? Help us improve!
-1. Check existing [issues](https://github.com/Malu2003/electricity_consumption/issues)
-2. Create a detailed bug report with screenshots
-3. Include device/browser information
-
-### **💡 Feature Requests**
-Have a brilliant idea? We'd love to hear it!
-1. Open a [feature request](https://github.com/Malu2003/electricity_consumption/issues/new?template=feature_request.md)
-2. Describe the problem it solves
-3. Provide mockups or examples if possible
-
 ### **👨‍💻 Code Contributions**
 Ready to code? Follow these steps:
 ```bash
@@ -408,15 +378,6 @@ git commit -m "feat: add energy usage prediction for solar panels"
 # 5. Push and create Pull Request
 git push origin feature/amazing-new-feature
 ```
-
-### **📖 Documentation**
-Help make WattsNext more accessible:
-- Fix typos and improve clarity
-- Add code examples and tutorials  
-- Translate documentation
-- Create video guides
-
----
 
 ## 📊 Performance Benchmarks
 
@@ -481,10 +442,10 @@ This project is licensed under the **MIT License** - see the LICENSE file for co
 - **Ms Thasni K N** - *Project Supervisor & Technical Guidance*
 
 **👥 Development Team**
-- **[ANJANA J]** - *Flutter UI/UX Design*
-- **[NIJI N]** - *Backend API & ML Engineering*
-- **[NAKSHATRA C]** - *Backend API & ML Engineering*
-- **[NANDANA R]** - *Data Analytics & UI*
+- **ANJANA J** - *Flutter UI/UX Design*
+- **NIJI N** - *Backend API & ML Engineering*
+- **NAKSHATRA C** - *Backend API & ML Engineering*
+- **NANDANA R** - *Data Analytics & UI*
 
 ### **💡 Inspiration & Research**
 *This project was inspired by the urgent global need for sustainable energy solutions and the potential of AI to democratize energy optimization for residential users.*
